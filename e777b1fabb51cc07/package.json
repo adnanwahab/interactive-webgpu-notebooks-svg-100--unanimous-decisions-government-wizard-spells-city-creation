@@ -1,0 +1,14 @@
+{
+  "name": "e777b1fabb51cc07",
+  "main": "e777b1fabb51cc07@856.js",
+  "version": "856.0.0",
+  "homepage": "https://observablehq.com/d/e777b1fabb51cc07",
+  "author": {
+    "name": "groundbear",
+    "url": "https://observablehq.com/@groundbear"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}

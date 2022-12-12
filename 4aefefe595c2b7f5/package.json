@@ -1,0 +1,14 @@
+{
+  "name": "4aefefe595c2b7f5",
+  "main": "4aefefe595c2b7f5@82.js",
+  "version": "82.0.0",
+  "homepage": "https://observablehq.com/d/4aefefe595c2b7f5",
+  "author": {
+    "name": "groundbear",
+    "url": "https://observablehq.com/@groundbear"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}

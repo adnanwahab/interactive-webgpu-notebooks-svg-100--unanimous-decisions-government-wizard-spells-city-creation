@@ -1,0 +1,14 @@
+{
+  "name": "@rreusser/sdf-points-with-regl",
+  "main": "77f9201da1019cdf@720.js",
+  "version": "720.0.0",
+  "homepage": "https://observablehq.com/@rreusser/sdf-points-with-regl",
+  "author": {
+    "name": "Ricky Reusser",
+    "url": "https://observablehq.com/@rreusser"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}

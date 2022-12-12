@@ -1,0 +1,14 @@
+{
+  "name": "@rreusser/2d-n-body-gravity-with-poissons-equation",
+  "main": "354e6b39adcce7d8@2888.js",
+  "version": "2888.0.0",
+  "homepage": "https://observablehq.com/@rreusser/2d-n-body-gravity-with-poissons-equation",
+  "author": {
+    "name": "Ricky Reusser",
+    "url": "https://observablehq.com/@rreusser"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}

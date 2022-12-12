@@ -1,4 +1,43 @@
+use static site like soul-wire.co.uk 
+so it always works and anyone can contrib an observable 
+or hand written page one folder at a time 
+
+react-server-side-rendering - reusable head + styles
+
+each folder one page 
+table 
+
+only need SEO + reusable styles on 
+make users use a imported stylesheet with tailwind 
+and basics that hides unnnecesary stuff from obs
+
+workflow -> 
+learn react and obfuscated garbage
+include a script tag with a src="../toggle-able-header-at-top.js"
+append a div at top
+append styles 
+
+book has to be server side progressive enhancement
+
+
+export 
+
+1 million notebooks from observable from all stream 
+1 billion users will appreciate your convert-obs-to-interactive-shader-book.js
+
+use iframes for now 
+
+add a make file or a node script or a python script that adds SEO stuff + link backwards to table of contents 
+
+
+
+
+
 this wiki book is designed specifically to unbundle governments, restore dignity to the individual, implement UBI, build future-hollistic-carbon-zero cities, and improve education so children can leapfrog and start researching the best of the frontier of science and art
+
+tell governments how to upgrade their consciousness by co-inventing antennas
+for public conscumption of AGI + telepathy
+
 
 * put images here
 
@@ -40,3 +79,27 @@ cost of labor goes down till people can crowdfund a city using automated technol
 use data visualization to convince people that this is a good idea
 
 half sicp - half brochure to build city
+
+
+orchestrate the inevitabiltiy of success for 7 billion people as anon
+
+start a bonfire for 7 billion MAU
+
+
+university in a book
+
+math
+physics
+astronomy
+molecular gastronomy 
+
+
+
+reinvent knowledge sharing industry 
+reality creation 4 a trillion dollar industry
+
+get kids to pay more attention in class and love and respect their teachers more
+
+teach collaboration through multiplayer editing
+
+learn preferences w/o login 
