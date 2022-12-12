@@ -1,11 +1,18 @@
-how to build repo 
+
+* how to build repo 
     cd lib/
     pip install or conda install 
     python make.py 
     cd ..
     python -m SimpleHttpServer
-
-
+* TODO todo
+** TODO make fullstory work
+** make domain names work
+** TODO make module work more better 8pm
+** whats your favorite thing in thing world ?
+*** whats your favorite research paper
+*** whats your favorite scientist?
+*** what book would you want everyone in the world to read
 
 
 
