@@ -1,3 +1,16 @@
+how to build repo 
+    cd lib/
+    pip install or conda install 
+    python make.py 
+    cd ..
+    python -m SimpleHttpServer
+
+
+
+
+
+
+
 use static site like soul-wire.co.uk 
 so it always works and anyone can contrib an observable 
 or hand written page one folder at a time 
