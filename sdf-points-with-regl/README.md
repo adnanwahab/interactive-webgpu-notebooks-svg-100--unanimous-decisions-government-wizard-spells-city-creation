@@ -31,3 +31,14 @@ const runtime = new Runtime();
 const main = runtime.module(define);
 main.value("foo").then(value => console.log(value));
 ~~~
+
+interaction modes :
+
+sidescrolling
+https://pudding.cool/2022/12/emotion-wheel/
+
+copy pudding.cool, distil.pub, bv, NYT,  threedee css transforms to flip pages so its like a story book
+
+down-scrolling + two column layout + both + 
+
+
