@@ -1,4 +1,4 @@
-128 references (64 books - 64 papers - stream pls contribute)
+64+ references (32 books - 32 papers - stream pls contribute)
 
 1. immens (http://vis.stanford.edu/projects/immens/)
 2. data vis
@@ -33,7 +33,7 @@
 31. hamming you and your research
 32. against the gods - risk
 33. own your day own your life
-34. gottman -
+34. gottman - collaboration w/ coworkers = no criticism, blame, stonewalling, contempt even as a thought or a little when if you're pairing. no questions like "i cant believe you don't know that "
 35. esther perel
 36. principles ray dalio
 37. skin in the game taleb
@@ -64,6 +64,10 @@
 62. AI
 63. AI
 64. AI
+65. recurse center code of "ethics
+66. https://www.amazon.com/Connect-Building-Exceptional-Relationships-Colleagues-ebook/dp/B0894279WZ/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1671039469&sr=8-1
+
+control your environment = spell 
 
 
 
