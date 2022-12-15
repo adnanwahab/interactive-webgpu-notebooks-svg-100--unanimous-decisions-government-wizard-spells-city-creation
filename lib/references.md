@@ -72,3 +72,10 @@ control your environment = spell
 
 
 <!-- todo linkify like gwern -->
+<!-- tshaped netflix -->
+<!-- steam values guide -->
+<!-- polya's how to solve it -->
+
+<!-- simple made easy -->
+<!-- 2023 talk references rewrite avi bryants -->
+<!-- you can take AI research papers and implement them in webgpu compute shaders and the JS is just boilerplate that is copy pasteable -->
