@@ -1,9 +1,14 @@
 {
-    "contents": [
-        {"author": "",
-        "email": "<url>",
-        "obs_url": "<url>",
-        "title": "title of folder"
-}
-    ],
+    "contents": [{
+        "author": "rickey reusser",
+        "email": "awahab@zoox.com",
+        "obs_url": "2d-n-body-gravity-with-poissons-equation",
+        "title": "2d-n-body-gravity-with-poissons-equation"
+    },
+    {
+        "author": "rickey reusser",
+        "email": "awahab@zoox.com",
+        "obs_url": "e777b1fabb51cc07",
+        "title": "e777b1fabb51cc07"
+    }]
 }
