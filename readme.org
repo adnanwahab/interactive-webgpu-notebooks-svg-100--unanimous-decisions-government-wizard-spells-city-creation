@@ -239,3 +239,119 @@ We can dissolve the boundaries between companies, eliminate duplication of work 
 
 
 If we can work together on this book series, we can do anything. I believe in you. if you use the capabilities i have bestowed upon you then you are limitless far beyond the design of god. 
+
+
+
+
+maslowes' hierarchy of needs - world actualization beyond self actualization  - inverted pyramid - alan kay's PDF
+
+stream's goal is to unify worlds and train 7 billion data science wizards plus 1 billion graphics visualization engineers 
+
+there's no limit to what engineers can create when they get the right design 
+
+everyone is the limitless human by overcoming and understanding the source of their condition
+
+the source is the bedrock foundation from which all problems occur
+
+the Truth is the bedrock foundation 
+
+the atomic structure, the nucleus of the atom, the mathematical formula, the behavior of nature
+
+the truth can never be captured by language, or a charcoal etching 
+
+
+make it positive sci fi, optimistic realistic and workism(enjoy every breath because life is a mysterious miracle which we have not yet figured out)
+
+
+comic book = parralex shader backgrounds with spider-man thought bubbles animating in 2.5D like paper-mario
+
+portoflio = 
+
+design = grids + typography + color theory + HCI + voice + visualization = tool 
+
+
+design 5-14
+5. notebook
+6. notebook
+7. notebook
+8. notebook
+9. notebook
+10. notebook
+11. notebook
+12. demo repo
+13. demo repo
+14. demo repo
+------------|
+   |  |  |  |
+------------|
+   |  |  |  |
+------------|
+   |  |  |  |
+------------|
+____________|
+            |
+------------|
+            |
+            |
+-------------           
+
+golden rule + respect your neighbor
+keep your notes in reflect.app / bear Link to how to do notes
+
+fullstory expose to user and make everyone a product engineer for book in observablehq.com 
+
+reimplement SVG in webGPU for fun and profit. pathGL 2 - use earcut for triangulation
+https://github.com/mapbox/earcut
+
+I want new observableHQ.com split test features
+implement match-making for observablehq.com
+
+First collaborative comic-book with webGPU and webGL.
+
+
+disprove G-factor because it cannot be measured by filling in bubbles
+prove technology improves collaboration which is the ultimate skill
+adaptivity is the ultimate skill
+attention span + focus = intelligence which can be trained like with reading at 3 years old cause tiger mmo
+
+technology improves crystallized intelligence exponentially using automatic SRS cards link to gwen and 
+review reflect every sunday
+reflect is my brain 
+
+recognizing patterns is true intelligence
+intelligence can be improved and maintained but reaches diminishing marginal returns
+it only takes 4 years to get really good
+link to 10 years to get good by norvig - whats the rush 
+
+architecture and abstraction are good skills
+design is the ultimate skill
+link to managers handbook - teaches enough higher consciousness stuff 
+
+multi-tasking is a usefull skill and you can only have one thought at a time - disprove later
+
+
+make visual proofs for upgrading the world
+
+make map - 3 hours till 5pm
+make framework 3 hours till 8pm
+dont forget to live 
+quote harry potter and make everyone in the world an AI-speaking wizard cause GPT is trendy
+and the singularity has begun
+AGI in 4-7 years 
+we dont know whats about to occur, just document progress and finish with wealth and health 
+
+get married at 44 like paul graham or 35 like tynan
+
+make good bets = ultimate skill 
+use time well = ultimate skill 
+
+teach kids everything in life is a mental skill
+upgrade your life dramatically with skill learning 
+
+reality-creation LARP ECONOMY 
+
+you'll be more successful if you use reflect to extend your mind with SRS 
+get someone to make a reflect.app => Anki converter PLEASE FOR THE LOVE OF GOD 
+
+cure possibility of depression with genomics and creating good circumstances by 2030 
+quote kapil's original podcasts on soundcloud
