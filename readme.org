@@ -137,3 +137,6 @@ every job is a practice for the next one so do your best and make cool modules t
 by reading this book, we have changed your fate and you are destined for Greatness. I can see your future and i know you better than you know yourself. 
 
 by contributing to this book you have made my dreams come true and yours too.
+
+the point of zoox is to reuse self-driving car knowledge to enrich the next generation to make a million unicorns and lots of robotics-scientists to make AGI
+cars are only the beginning, at zoox we will create armies of robots to rebuild and empower the earth
