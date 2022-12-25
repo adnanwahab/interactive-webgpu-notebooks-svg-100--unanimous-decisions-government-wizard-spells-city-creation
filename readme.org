@@ -140,3 +140,25 @@ by contributing to this book you have made my dreams come true and yours too.
 
 the point of zoox is to reuse self-driving car knowledge to enrich the next generation to make a million unicorns and lots of robotics-scientists to make AGI
 cars are only the beginning, at zoox we will create armies of robots to rebuild and empower the earth
+
+make your code more meaningful by making it literate so you remember wtf it was doing and 
+
+this book is g-rated and meant for the advanced beginner and hidden genius within everyone but especially kindergarderners because the simpler the code the better the author because the easier it is to understanding
+simplicity is the mark of true skill. 
+make something worth forking and watch the world transform
+
+
+start before they are conditioned by school to give up
+but also inspire everyone to keep going is the goal. 
+
+together we can reinvent the earth
+
+we have 2500 geniuses, its the first company i came into where i felt not even average. - shel bernstein
+
+
+document 3 phenomena :
+client-side AI
+webgpu
+the MIND > GOD
+
+together we can correct the market ineffecienes, augment human intelligence to be super-human, change cities and remove information assymetries with GNU code
