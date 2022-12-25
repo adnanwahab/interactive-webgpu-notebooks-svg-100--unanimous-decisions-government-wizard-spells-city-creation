@@ -108,11 +108,14 @@ start a bonfire for 7 billion MAU
 
 university in a book
 
-math
-physics
-astronomy
-molecular gastronomy 
-
+math - ai people
+physics - planning people
+terraform earth with arcology - management
+designers = help with visualization design
+engineers make diagrams or modules
+molecular gastronomy by chefs
+HR - jurisprudence 
+everyone help make diagrams with low-code-no-code UI like shadergraph
 
 
 reinvent knowledge sharing industry 
@@ -123,3 +126,8 @@ get kids to pay more attention in class and love and respect their teachers more
 teach collaboration through multiplayer editing
 
 learn preferences w/o login 
+instaloader visualizevalue --login abrahammaslowe92
+
+everyone please add most interesting data sets imaginable including synthetic datasets like scraped amazon authors and the date and age they made their best creation which i thought was 45-60 because Jiro never stopped peaking at 96
+
+TODO add spreadhsheet of collaborators/editors/emails/observablehq
