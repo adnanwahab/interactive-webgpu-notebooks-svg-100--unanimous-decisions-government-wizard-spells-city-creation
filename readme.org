@@ -209,8 +209,33 @@ Truth = Reality as it is without belief
 Data = closest thing to Truth
 Humans can never capture the Truth, they can only get asymptotical 
 
+part 0 = kill math basics (study linear algebra, statistics+probability+naive bayes+stochastic gradient descent, real analysis, trig)
+part 1 = [AI, data visualization, simulation]
+part 2 = Visualizing the Human Mind or Brain [NeuroScience, Spirituality, Math]
+part 3 = world transforming mind = robots rebuild earth + genomics create arcology cities
 
-chapter 0 = kill math basics (study linear algebra, statistics+probability+naive bayes+stochastic gradient descent, real analysis, trig)
-chapter 1 = [AI, data visualization, simulation]
-chapter 2 = Visualizing the Human Mind or Brain [NeuroScience, Spirituality, Math]
-chapter 3 = world transforming mind = robots rebuild earth + genomics create arcology cities
+Each chapter needs a research paper to proof ideas
+
+self-teachers are too practical, but be a pragmatic implementator
+academics tend to be too ivory tower and reductionist and dogmatic and afraid of showing their code .
+
+papers-with-code is the answer
+make observable into papers with code and make a book out of it. thats observable's purpose
+
+together we can make observablehq displace wikipedia by keeping this collection of documents universally resonant.
+
+I want every line and character to be scrutinized closely by every single person at zoox. 
+
+No PR gets approved until it has 2500 +1s or unanimous consensus and resonance across 500 constituents for 5 editors who are voted in and replaced yearly. 
+
+
+This book is to upgrade the education for the next generation so they can make AGI and correct the world in ways that we could not. They are more capable than they believe and its our responsibility to show it to them,
+
+i know half of you are bored while the government is approving the car to be released. 
+
+This 20% time project will create extreme cross pollination between us and other walled gardens.
+
+We can dissolve the boundaries between companies, eliminate duplication of work and crystallized human effort like modules and create a better more harmonious.
+
+
+If we can work together on this book series, we can do anything. I believe in you. if you use the capabilities i have bestowed upon you then you are limitless far beyond the design of god. 
