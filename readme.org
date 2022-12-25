@@ -355,3 +355,6 @@ get someone to make a reflect.app => Anki converter PLEASE FOR THE LOVE OF GOD
 
 cure possibility of depression with genomics and creating good circumstances by 2030 
 quote kapil's original podcasts on soundcloud
+
+get webGPU to come out by june 2023, and 100% by 2024 before Car so that client-side 
+use webGPU canary for electron app with emulated floating-point textures
