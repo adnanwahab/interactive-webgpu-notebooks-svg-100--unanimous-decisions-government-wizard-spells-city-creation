@@ -418,3 +418,7 @@ see-saw or flip coordinate space
 infinite scatterplot of complaints
 
 gpgpu the comic
+
+bring things to its final endpoint
+
+be one of 5 editors
