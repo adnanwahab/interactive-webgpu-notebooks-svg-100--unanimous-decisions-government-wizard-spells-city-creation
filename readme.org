@@ -541,3 +541,8 @@ consult on scientific visualization mostly
 make art for practice and for its own sake
 
 make readme a tour of interesting visualizations.
+
+
+https://flowingdata.com/made-by-flowingdata/
+make worrydream into happydream by making his dreams come true http://worrydream.com/MagicInk/
+make UI like berkley train schedule or ITA matrix or hipmunk with AI doing cool stuff
