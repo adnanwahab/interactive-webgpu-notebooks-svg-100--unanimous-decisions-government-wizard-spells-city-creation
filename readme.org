@@ -548,3 +548,6 @@ make worrydream into happydream by making his dreams come true http://worrydream
 make UI like berkley train schedule or ITA matrix or hipmunk with AI doing cool stuff
 
 add gapminder + wealth and health of nations projected to 2029 because thats the date utopia begins based on experience and assumptions that need verification from data for communication
+
+best visualizations tend to be found on observable because regl community is going towards there.
+hypothesis = add webGPU to observablehq and robotics community and see it blow up.
