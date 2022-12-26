@@ -613,16 +613,18 @@ visualize anomaly detection
 reorder top section and leave rest as todo 
 
 - [ ] add 30 regl.party + 7 austin-eng
+- [ ] extend and implement bret victors ideas 
+- [ ] extend and visualize ideas which implement stream [2024]
+- [ ] make framework which supports science, ai, visualization, data science - 3 months 
+- [ ] make talk that takes alan kay's ideas and paper and starts movement to continue bret victors work 
 
 
 
+alan kay -------> bret victor 
+|                  |
+V                   |
+others -------------->
 
+accumulate in structured manner to 100 billion accumulated wisdom and knowledge so next 8 billion are more happy 
 
-
-
-
-
-
-
-
-
+happy = default state when informed about progress 
