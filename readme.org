@@ -574,3 +574,55 @@ cite mind illuminated
 <img src="./data/kerpow.png" align="left" hspace="10" vspace="6"> => reimplement kerpow sim-city
 
 todo in SF - reorganize into grand unified theory of consciousness that isnt self-contradicting or incomplete like godel
+
+#meaningful code
+extend other peoples theories, adapt ideas, see connections, and adapt code to conform to mental model
+visualize the mind as 
+curtain with rube goldberg machine pulling strings -> whats in the machine?
+phenomenological binding problems
+mind is a sand dune with rolling particles 
+mind is a circular buffer 
+mind is append only but memories fade
+federated identity - russian doll abstraction - reveal details in permission/roles/iam ethereum
+visualize ethereum network 
+
+visualize mind as iceberg freezing and refreezing
+
+visualize entropic brain
+visualize strucutre of mind matter phenomena 
+
+visualize what is projection - memories colored by state dependent access and emotions
+visualize kapi's metaphors
+visualize buddhist metaphors - i am not a tea-cup
+
+use simulation to visualize
+use visualization to understand systems that underpin economony 
+
+Have zoox make diagrams which support optimal consciousness by showing glimpses of true nature of reality and mind matter phenomena 
+
+visualize what is optimal consciousness and systems which support it
+
+visualize layers of computer 
+
+
+visualize layers that underpin economy and casual factor
+
+visualize anomaly detection
+
+# todo
+reorder top section and leave rest as todo 
+
+- [ ] add 30 regl.party + 7 austin-eng
+
+
+
+
+
+
+
+
+
+
+
+
+
