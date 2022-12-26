@@ -551,3 +551,26 @@ add gapminder + wealth and health of nations projected to 2029 because thats the
 
 best visualizations tend to be found on observable because regl community is going towards there.
 hypothesis = add webGPU to observablehq and robotics community and see it blow up.
+
+
+
+chapters 
+
+4. handwriting analysis 
+5. map and geospatial data analysis with large data with hexagonal binning
+6. writing a graphics engine from scratch - 3d cubes
+7. life circumstances are a function of the refinement of your mind and understanding of your conditioning
+
+
+
+most important interactive visualizations for being an advanced beginner data scientist, ai scientist, graphics engineer, geospatial tools engineer, webgpu hacker, for understanding the mind which is the greatest invention in the cosmos
+mind, math and science are closest to god.
+
+cite mind illuminated
+
+<img src="./data/spiral-dynamics.png" align="left" hspace="10" vspace="6"> reimplement truth spiral -> 3d perspective illusion
+<img src="./data/robert-kegan.webp" align="left" hspace="10" vspace="6"> reimplement zoom logarithmic depth buffer
+<img src="./data/latency.png" align="left" hspace="10" vspace="6"> reimplement using modern GPU NUMBERS
+<img src="./data/kerpow.png" align="left" hspace="10" vspace="6"> => reimplement kerpow sim-city
+
+todo in SF - reorganize into grand unified theory of consciousness that isnt self-contradicting or incomplete like godel
