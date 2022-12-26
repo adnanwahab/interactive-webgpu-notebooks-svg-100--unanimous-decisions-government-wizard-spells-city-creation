@@ -539,3 +539,5 @@ paul graham said "be a missionary, don't consult."
 consult on scientific visualization mostly
 
 make art for practice and for its own sake
+
+make readme a tour of interesting visualizations.
