@@ -651,3 +651,9 @@ get self-learners a job with giving research papers to spike on for companies
 improve scientific and computer education in schools and student-teacher relationships by showing kids why to learn science (make cool stuff)
 
 mixture of visualize-value, SICP, cs183, fast-ai.
+get observable + reflect taught in school (mindmap-tony-buzan)
+
+## how to learn
+find the source of the source of your teachers - walk up chain of logic/distillation cause lots of stuff gets lots in translation
+example : d3 -> heer -> immens
+example: yoga -> bhagvad gita or yoga-> taoism/
