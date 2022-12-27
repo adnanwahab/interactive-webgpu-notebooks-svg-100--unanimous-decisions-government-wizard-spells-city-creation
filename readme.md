@@ -325,6 +325,7 @@ recognizing patterns is true intelligence
 intelligence can be improved and maintained but reaches diminishing marginal returns
 it only takes 4 years to get really good
 link to 10 years to get good by norvig - whats the rush 
+https://norvig.com/21-days.html
 
 architecture and abstraction are good skills
 design is the ultimate skill
@@ -628,3 +629,23 @@ others -------------->
 accumulate in structured manner to 100 billion accumulated wisdom and knowledge so next 8 billion are more happy 
 
 happy = default state when informed about progress 
+
+
+# table of contents
+how to write a map with lots of data
+how to write a particle simulation
+how to write a hand writing neural net
+how to redesign your mind/fate with learning about unconscious biases
+
+how to program an AI with voice and a nodegraph with compute shaders
+how to import a server-side trained model into the browser for more intelligent applications
+
+how to implement/design the hardware needed to drive a car with robotics - 5 parts
+simulation, planning, control, prediction, perception
+# purpose of course
+get kindergarderners to play with simulations and learn cool stuff with sliders
+inspire the advanced beginners with a clear staircase to build their dreams at a startup or their dream job
+give self-learners a path to get a job by learning new skills that are useful
+get self-learners a job with giving research papers to spike on for companies
+
+
