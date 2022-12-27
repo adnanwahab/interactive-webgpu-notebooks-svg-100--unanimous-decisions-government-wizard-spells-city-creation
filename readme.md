@@ -642,10 +642,12 @@ how to import a server-side trained model into the browser for more intelligent 
 
 how to implement/design the hardware needed to drive a car with robotics - 5 parts
 simulation, planning, control, prediction, perception
+
 # purpose of course
 get kindergarderners to play with simulations and learn cool stuff with sliders
 inspire the advanced beginners with a clear staircase to build their dreams at a startup or their dream job
 give self-learners a path to get a job by learning new skills that are useful
 get self-learners a job with giving research papers to spike on for companies
+improve scientific and computer education in schools and student-teacher relationships by showing kids why to learn science (make cool stuff)
 
-
+mixture of visualize-value, SICP, cs183, fast-ai.
