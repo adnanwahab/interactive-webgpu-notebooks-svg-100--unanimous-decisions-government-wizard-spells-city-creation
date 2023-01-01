@@ -657,3 +657,14 @@ get observable + reflect taught in school (mindmap-tony-buzan)
 find the source of the source of your teachers - walk up chain of logic/distillation cause lots of stuff gets lots in translation
 example : d3 -> heer -> immens
 example: yoga -> bhagvad gita or yoga-> taoism/
+
+the meaning of hardship is that  you can use it to understand more and create more wisdom
+so you can transfer it to the next generation so they have easier, better lives 
+
+we can do this using visualization and 4d graphics in the browser to make the world a better place to live. 
+
+part 0 kill math
+part 1 graphics + scientific visualization and visualization of graphics
+part 2 visualzing AI and client-side AI - 4 years from now distil.pub
+part 3 visualzing the mind
+part 4 = robots building better cities and genomics - 7 years from now 
