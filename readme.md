@@ -670,3 +670,6 @@ part 4 = robots building better cities and genomics - 7 years from now
 
 # theme or influences
 SICP + observable + ram dass + the studio + pierre + webGPU + alan kay + bret victor + visual zen koans 
+
+keep visualize mind magic as a growth funnel into observablehq - side project 
+
