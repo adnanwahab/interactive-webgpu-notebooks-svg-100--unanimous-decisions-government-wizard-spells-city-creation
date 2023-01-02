@@ -338,13 +338,11 @@ make visual proofs for upgrading the world
 
 make map - 3 hours till 5pm
 make framework 3 hours till 8pm
-dont forget to live 
 quote harry potter and make everyone in the world an AI-speaking wizard cause GPT is trendy
 and the singularity has begun
 AGI in 4-7 years 
 we dont know whats about to occur, just document progress and finish with wealth and health 
 
-get married at 44 like paul graham or 35 like tynan
 
 make good bets = ultimate skill 
 use time well = ultimate skill 
@@ -668,3 +666,7 @@ part 1 graphics + scientific visualization and visualization of graphics
 part 2 visualzing AI and client-side AI - 4 years from now distil.pub
 part 3 visualzing the mind
 part 4 = robots building better cities and genomics - 7 years from now 
+
+
+# theme or influences
+SICP + observable + ram dass + the studio + pierre + webGPU + alan kay + bret victor + visual zen koans 
