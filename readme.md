@@ -775,3 +775,15 @@ psychedelics will cause the recession to end permanently, because they will inst
 I'm starting this school for everyone to become gifted and talented at whatever subspeciality of AI-driven art you choose to create.
 
 This school is designed to teach you how to create AI-Scientific-Art Tools to create your dreams automagically for you using armies of robots. 
+
+universally resonant tone. must resonate in as many subminds by unifying subminds 
+
+
+<img src="./data/mind-illuminated1.png" align="left" hspace="10" vspace="6"> 
+
+<img src="/data/mind-illuminated2.png" align="left" hspace="10" vspace="6"> 
+
+
+<img src="/data/mind-illuminated3.png" align="left" hspace="10" vspace="6"> 
+
+<img src="/data/mind-illuminated4.png" align="left" hspace="10" vspace="6"> 
