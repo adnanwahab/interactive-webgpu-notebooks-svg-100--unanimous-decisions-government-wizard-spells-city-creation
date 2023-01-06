@@ -1,5 +1,6 @@
-# Visualize Mind Magic - Grimoire Arcanum - eat this to receive your minds eye
-
+# Visualize Mind Magic - Simple Staircase to 100x engineer/designer
+We specialize in the emerging potential of the web platform.
+We are designing the continuance of a nascent computational medium pioneers by redblobgames.com, pudding.cool and distil.pub
 
 
 * how to build repo 
@@ -16,10 +17,6 @@
 *** whats your favorite research paper
 *** whats your favorite scientist?
 *** what book would you want everyone in the world to read
-
-
-
-
 
 use static site like soul-wire.co.uk 
 so it always works and anyone can contrib an observable 
@@ -669,7 +666,107 @@ part 4 = robots building better cities and genomics - 7 years from now
 
 
 # theme or influences
-SICP + observable + ram dass + the studio + pierre + webGPU + alan kay + bret victor + visual zen koans 
+SICP + observable + ram dass + the studio + webGPU + alan kay + bret victor + visual zen koans 
 
 keep visualize mind magic as a growth funnel into observablehq - side project 
 
+try react for book binding.js to toggle code-hiding and stuff
+all you need is tailwind
+
+
+i want the world to teach itself more - and for people to help me teach so everyone's smarter
+world has information overload - making sense of that information = magic 
+AI = magic because it helps make sense of world that is beyond logic because logic is sometime incomplete.
+absolutes and generalizations are useful and somewhat-necessary because they save time or else you'd just remain confused
+brain is not a truth machine, but its the closest thing we've got. 
+you're not the mind, you have one and it has properties 
+cure all malladies of the mind with a software upgrade - we can finish what krishnamurthi and buddha could not.
+I can't do it alone.
+We only need 600 bonfire creators to fix wikipedia's lack of interactive content which can illustrate and demonstrate what images alone cannot.
+
+redblobgames.com + pudding.cool + SICP + observable + ram dass + the studio + webGPU + alan kay + bret victor + visual zen koans 
+
+everyone in the world becoming a contributor instead of just a spectator. 
+make a better wikipedia -> send a community driven message 
+convince wikipedia to use better software including webGPU in 3 years.
+convince wikpedia to use observablehHQ as their document 
+eventually get wikipedia founders to help implement LARP-economy
+
+get wikipedia to make each edit voted on by 51% of members 
+get wikipedia to use better more collaborative software using observablehq.com
+make observablehq acquire wikipedia and instrument knowledge synthesis AI
+
+make wikipedia more collaborative
+wikipedia reflects status quo too much 
+# glossary
+mind magic = AI + the computer as extension to the mind + fact that mind can do math
+culture = miracle that we all understand the same things 
+smarts = amount of useful knowledge in head, including ability to create new useful knowledge 
+
+
+# goal 
+teach collaboration skills by finding out what they are and clearly defining them better than any where else 
+gottman-thought-world
+make a course for advanced beginners 
+make everyone a 100x engineer/designer/scientist
+
+engineer skills -
+   refactoring for simplfiication - example = rawWEBGPU-> framework code -> knowing stack at all levels and tweaking each part to be 10x simpler
+
+meta-self-programming - to be defined 
+
+
+
+The unabomber thought impossible problems would be too hard and all the medium problems were used up
+easy problems are all done
+medium problems are taken by other people
+impossible problems are now solvable using collaboaration which is the ultimate skill
+there are a lot of smart people mad at the world because the world isnt good enough
+
+theres millions of disefranchised people like 
+
+make 1 billion wizards
+Advanced prgamatic philosophy for hackers 
+
+5 modules for now
+1. big data visualization 
+2. using speech to instruct AI to make computer graphics
+
+technology solves the human condition by creating freedom from the mind
+technology has an inherently spiritual bent because it extends the mind 
+together we can make 7 billion buddah+alan kay hybrids
+
+# make simple staircase to 100x engineer - paul graham
+1. work hard to understand best ideas of other people and create your own for other people to cherish.
+2. make something people want
+3. make map that shows noisest neighborhood/hexagon in multiple resolutions
+
+you can be the protagonist or you can be the author of the world's story
+
+don flamingo quote - winners are the ones who decide history
+
+making a new computational medium like pudding.cool and distil.pub to teach 100x engineer skills to 1 billion people
+
+find 
+
+there's no limit to the demand for design and engineering 
+we could have 10x as many 100x designers/engineers making star-forges, fusion and cure cancer.
+We don't have enough talent. Thats why it takes so long to build things and thats why most things are filled with bugs.
+
+It's your job to find the limits of the system and remove them.
+The system is everywhere you go. Everything you touch. It is the state of the world 
+Make an homage to the matrix and say you can change the code of the systems that govern the behavior of the world's systems. 
+
+You can create things for billions of people to consume. Observablehq can get more viewers than netflix. 
+
+The world is changing. Think of tiktok overtaking instagram. The future belongs to creators. Who stitch together the ideas of others and remix them into wonderous creations. 
+
+it may be comforting to think it was inevitable but it wasnt.
+if you think you have infinite free will, then you have more than you think - menno henselman
+Think of designing in code as a new art form, and you can use it to shape the world.
+
+psychedelics will cause the recession to end permanently, because they will instigate a surge in progress by making the mind more optimal, malleable, and ductile. The mind wants to expand infinitely - kyle henry.
+
+I'm starting this school for everyone to become gifted and talented at whatever subspeciality of AI-driven art you choose to create.
+
+This school is designed to teach you how to create AI-Scientific-Art Tools to create your dreams automagically for you using armies of robots. 
