@@ -787,3 +787,34 @@ universally resonant tone. must resonate in as many subminds by unifying submind
 <img src="./data/mind-illuminated3.png" align="left" hspace="10" vspace="6"> 
 
 <img src="./data/mind-illuminated4.png" align="left" hspace="10" vspace="6"> 
+
+
+# Request for contributions
+
+simple unified theory of all knowledge distilled down into visual 4d memes, visual proofs, illusions, and visual zen koans)
+
+please cross-reference ideas and add your favorite books and research papers to an observable notebook and references section.
+
+wikipedia + spiritiual successor to SICP 
+
+take over wikipedia and add visual diagrams, and notebooks for citations.
+
+TODO : add DAO for code is law 
+
+
+
+everyone is in a universe unto themself - everyone lives and interacts with a simulation that is constructed from sensory 
+
+Everyone has a copy of the universe in their mental software.
+
+We can upgrade this software by creating the right visualizations. 
+
+visualize person sitting in room 
+
+make everyone in the world a True Student of 
+
+Always be learnining
+
+More you learn, the more you can create.
+
+The point of creation is to have fun seeing your creation dancing in 8 billion universes. 
