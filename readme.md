@@ -1,6 +1,15 @@
-# Visualize Mind Magic - Simple Staircase to 100x engineer/designer
+# Visualize Mind Magic - Simple Staircase to 1 billion 100x engineer/designer
+
 We specialize in the emerging potential of the web platform.
+
 We are designing the continuance of a nascent computational medium pioneers by redblobgames.com, pudding.cool and distil.pub
+
+
+<img src="./data/spiral-dynamics.png" align="left" hspace="10" vspace="6"> reimplement truth spiral -> 3d perspective illusion
+<img src="./data/robert-kegan.webp" align="left" hspace="10" vspace="6"> reimplement zoom logarithmic depth buffer
+<img src="./data/latency.png" align="left" hspace="10" vspace="6"> reimplement using modern GPU NUMBERS
+<img src="./data/kerpow.png" align="left" hspace="10" vspace="6"> => reimplement kerpow sim-city
+
 
 
 * how to build repo 
@@ -564,10 +573,6 @@ mind, math and science are closest to god.
 
 cite mind illuminated
 
-<img src="./data/spiral-dynamics.png" align="left" hspace="10" vspace="6"> reimplement truth spiral -> 3d perspective illusion
-<img src="./data/robert-kegan.webp" align="left" hspace="10" vspace="6"> reimplement zoom logarithmic depth buffer
-<img src="./data/latency.png" align="left" hspace="10" vspace="6"> reimplement using modern GPU NUMBERS
-<img src="./data/kerpow.png" align="left" hspace="10" vspace="6"> => reimplement kerpow sim-city
 
 todo in SF - reorganize into grand unified theory of consciousness that isnt self-contradicting or incomplete like godel
 
